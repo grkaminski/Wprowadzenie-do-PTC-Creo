@@ -1,0 +1,4 @@
+r=-0.5*db-.5*t*(da-db)
+a=acos(db/(2*r))
+theta=tan(a)*180/pi-a-theta_b
+z=0

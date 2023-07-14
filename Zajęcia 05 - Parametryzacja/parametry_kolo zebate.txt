@@ -1,0 +1,6 @@
+d=m*z
+db=d*cos(alfa)
+da=d+2*m
+df=d-2.4*m
+fi=180*tan(alfa)/pi-alfa
+theta_b=90/z-fi
